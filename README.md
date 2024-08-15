@@ -1,5 +1,6 @@
 # API-STOCK-PROJECT!
-[IMG_2211](https://github.com/user-attachments/assets/6b6226df-af5e-42c5-87da-766bdf4d2792)
+![IMG_2211](https://github.com/user-attachments/assets/bff97fbc-964c-4e87-8961-e003bf0be943)
+
 
 For this project I picked the following 5 stocks:
 - Tesla
